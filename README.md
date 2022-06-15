@@ -1,0 +1,1 @@
+vue-pokèdex-first-gen
